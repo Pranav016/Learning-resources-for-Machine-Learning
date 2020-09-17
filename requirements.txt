@@ -1,0 +1,15 @@
+matplotlib
+seaborn
+pandas
+numpy
+sklearn
+scipy
+pickle
+sas7bdat
+h5py
+sqlalchemy
+urllib
+bs4
+requests
+tweepy
+json
